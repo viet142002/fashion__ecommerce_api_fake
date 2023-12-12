@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "_id": 1,
+            "title": "The Cloud Relaxed Cardigan",
+            "price": 188,
+            "discount": 30,
+            "colors": ["Black", "Olivi"],
+            "remarkable": []
+        },
+        {
+            "_id": 2,
+            "title": "The Organic Cotton Long-Sleeve Turtleneck",
+            "price": 50,
+            "discount": 30,
+            "colors": ["Black", "Olivi", "Heather Charcoal", "Red"],
+            "remarkable": ["organic cotton"]
+        },
+        {
+            "_id": 3,
+            "title": "The Wool Flannel Pant",
+            "price": 138,
+            "discount": 30,
+            "colors": ["Heather Charcoal", "Red"],
+            "remarkable": ["renwed materials", "cleaner chemistry"]
+        },
+        {
+            "_id": 4,
+            "title": "The Cloud Relaxed Cardigan",
+            "price": 188,
+            "discount": 30,
+            "colors": ["Black", "Olivi"],
+            "remarkable": []
+        },
+        {
+            "_id": 5,
+            "title": "The Organic Cotton Long-Sleeve Turtleneck",
+            "price": 50,
+            "discount": 30,
+            "colors": ["Black", "Olivi", "Heather Charcoal", "Red"],
+            "remarkable": ["organic cotton"]
+        },
+        {
+            "_id": 6,
+            "title": "The Wool Flannel Pant",
+            "price": 138,
+            "discount": 30,
+            "colors": ["Heather Charcoal", "Red"],
+            "remarkable": ["renwed materials", "cleaner chemistry"]
+        },
+        {
+            "_id": 7,
+            "title": "The Cloud Relaxed Cardigan",
+            "price": 188,
+            "discount": 30,
+            "colors": ["Black", "Olivi"],
+            "remarkable": []
+        },
+        {
+            "_id": 8,
+            "title": "The Organic Cotton Long-Sleeve Turtleneck",
+            "price": 50,
+            "discount": 30,
+            "colors": ["Black", "Olivi", "Heather Charcoal", "Red"],
+            "remarkable": ["organic cotton"]
+        },
+        {
+            "_id": 9,
+            "title": "The Wool Flannel Pant",
+            "price": 138,
+            "discount": 30,
+            "colors": ["Heather Charcoal", "Red"],
+            "remarkable": ["renwed materials", "cleaner chemistry"]
+        }
+    ]
+}
